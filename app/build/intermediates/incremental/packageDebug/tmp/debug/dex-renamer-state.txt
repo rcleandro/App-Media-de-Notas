@@ -1,0 +1,7 @@
+#Sat Sep 05 23:10:15 BRT 2020
+base.0=C\:\\Users\\sjlea\\AndroidStudioProjects\\MediaDeNota\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\sjlea\\AndroidStudioProjects\\MediaDeNota\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
